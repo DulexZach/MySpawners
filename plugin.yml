@@ -1,0 +1,11 @@
+name: MySpawners
+main: me.dulexzach.MySpawners.MySpawners
+version: 0.1
+
+commands:
+  myspawners:
+    description: See the version of myspawners that you are using.
+
+permissions:
+  myspawners.drop:
+    default: false
