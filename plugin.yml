@@ -8,4 +8,4 @@ commands:
 
 permissions:
   myspawners.drop:
-    default: false
+    default: op
